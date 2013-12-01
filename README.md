@@ -1,4 +1,5 @@
 Web page for all output =>http://web.njit.edu/~bar25/prg2.php
+
 Ans 1  input
 <?php
 // Make a MySQL Connection
@@ -54,6 +55,7 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
 Ans 3 input
 <?php
 // Make a MySQL Connection
@@ -81,6 +83,8 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
 Ans 4 input
 <?php
 // Make a MySQL Connection
@@ -108,6 +112,7 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
 Ans 5 input
 <?php
 // Make a MySQL Connection
@@ -135,6 +140,8 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
 Ans 6 input
 <?php
 // Make a MySQL Connection
@@ -163,6 +170,7 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
 Ans 7 input
 <?php
 // Make a MySQL Connection
