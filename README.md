@@ -1,6 +1,7 @@
 Web page for all output =>http://web.njit.edu/~bar25/prg2.php
 
 Ans 1  input
+
 <?php
 // Make a MySQL Connection
 mysql_connect("sql.njit.edu", "bar25_proj", "IsiRFkts") or die("Connection Failed");
