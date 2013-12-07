@@ -29,6 +29,9 @@ while($row = mysql_fetch_array( $result )) {
 }
 ?>
 
+
+
+
 Ans 2 input
 <?php
 // Make a MySQL Connection
@@ -56,6 +59,11 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
+
+
+
 
 Ans 3 input
 <?php
@@ -86,6 +94,9 @@ while($row = mysql_fetch_array( $result )) {
 ?>
 
 
+
+
+
 Ans 4 input
 <?php
 // Make a MySQL Connection
@@ -114,6 +125,9 @@ while($row = mysql_fetch_array( $result )) {
 }
 ?>
 
+
+
+
 Ans 5 input
 <?php
 // Make a MySQL Connection
@@ -141,6 +155,10 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
+
+
 
 
 Ans 6 input
@@ -172,6 +190,10 @@ while($row = mysql_fetch_array( $result )) {
 }
 ?>
 
+
+
+
+
 Ans 7 input
 <?php
 // Make a MySQL Connection
@@ -199,6 +221,10 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
+
+
 Ans8 input
 <?php
 // Make a MySQL Connection
@@ -226,6 +252,10 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
+
+
 Ans 9 input
 <?php
 // Make a MySQL Connection
@@ -271,6 +301,11 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td><td>"; 
 }
 ?>
+
+
+
+
+
 Ans 10 input
 <?php
 // Make a MySQL Connection
@@ -307,6 +342,10 @@ mysql_select_db("bar25_proj")or die("Connection Failed");
 		return $result;
 	
 ?>
+
+
+
+
 Ans 11 input
 <?php
 // Make a MySQL Connection
@@ -341,6 +380,11 @@ while($row = mysql_fetch_array( $result )) {
 	echo "</td></tr>"; 
 }
 ?>
+
+
+
+
+
 Ans 12 input
 <?php
 // Make a MySQL Connection
